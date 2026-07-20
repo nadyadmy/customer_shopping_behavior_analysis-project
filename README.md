@@ -105,11 +105,7 @@ SQL techniques used:
 ## Dashboard Preview
 
 ```
-<h2>Dashboard Preview</h2>
-
-<p align="center">
-  <img src="Dashboard_page-0001.jpg" alt="Customer Behavior Dashboard" width="900">
-</p>
+<img src="Dashboard_page-0001.jpg">
 
 ---
 
