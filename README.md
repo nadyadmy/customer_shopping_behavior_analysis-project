@@ -102,12 +102,14 @@ SQL techniques used:
 - Window Functions
 
 ---
+
 ## Dashboard Preview
 
-```
-<img src="Dashboard_page-0001.jpg">
+<p align="center">
+  <img src="Dashboard_page-0001.jpg" alt="Dashboard Preview" width="900">
+</p>
 
----
+
 
 ## Key Findings
 - Young Adults generated the highest revenue (~$62K).
