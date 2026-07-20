@@ -104,19 +104,12 @@ SQL techniques used:
 ---
 ## Dashboard Preview
 
-> *(Insert your dashboard screenshot here)*
-
-Example:
-
 ```
-images/dashboard.png
-```
+<h2>Dashboard Preview</h2>
 
-Then display it:
-
-```markdown
-![Dashboard](images/dashboard.png)
-```
+<p align="center">
+  <img src="Dashboard_page-0001.jpg" alt="Customer Behavior Dashboard" width="900">
+</p>
 
 ---
 
